@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         textView2.setText(String.valueOf(sensorEvent.values[1]));
         textView3.setText(String.valueOf(sensorEvent.values[2]));
         //qweqweqwewqewq
+        //12312313333
     }
 
     @Override
